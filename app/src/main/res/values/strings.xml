@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SnapDebate</string>
+    <string name="title_activity_play_video">PlayVideoActivity</string>
+    <string name="title_activity_start">StartActivity</string>
+    <string name="title_activity_intro">IntroActivity</string>
+    <string name="title_activity_explain">ExplainActivity</string>
+    <string name="title_activity_highscore">HighscoreActivity</string>
+    <string name="title_activity_finale">FinaleActivity</string>
+</resources>

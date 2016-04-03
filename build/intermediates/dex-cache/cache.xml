@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Sweet/Desktop/SnapDebate/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/Sweet/Desktop/SnapDebate/app/build/intermediates/pre-dexed/debug/classes-3b9e908c7684f2dad2384384afc840d53e9fde2c.jar" />
+    </item>
+    <item
+        jar="/Users/Sweet/Desktop/SnapDebate/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/Sweet/Desktop/SnapDebate/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-226c368afdee336b109bcd36f457627efe81bfa4.jar" />
+    </item>
+    <item
+        jar="/Users/Sweet/Desktop/SnapDebate/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/Sweet/Desktop/SnapDebate/app/build/intermediates/pre-dexed/debug/classes-e35f3480a1cb43f83b7054a9171a8501e4d6d3a5.jar" />
+    </item>
+    <item
+        jar="/Users/Sweet/Desktop/SnapDebate/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Users/Sweet/Desktop/SnapDebate/app/build/intermediates/pre-dexed/debug/classes-18849ed4a0fe84d2b39f563c6bdc5ce135d26e63.jar" />
+    </item>
+    <item
+        jar="/Users/Sweet/Desktop/SnapDebate/app/build/intermediates/exploded-aar/com.github.kikoso/SwipeableCards/1.1-RELEASE/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="cdb3b203804d4d4fd3051f1acf7e8602c036ad9b">
+        <dex dex="/Users/Sweet/Desktop/SnapDebate/app/build/intermediates/pre-dexed/debug/classes-b749ae483712fc04e26597945c58caff6fd52080.jar" />
+    </item>
+    <item
+        jar="/Users/Sweet/Desktop/SnapDebate/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/Sweet/Desktop/SnapDebate/app/build/intermediates/pre-dexed/debug/classes-3bd7b3f1c1d2bf42b9b69f5c878e724d7c8d145f.jar" />
+    </item>
+    <item
+        jar="/Users/Sweet/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/Sweet/Desktop/SnapDebate/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1-b25f35faa171ee168c83dc8ed8330471442f58ec.jar" />
+    </item>
+
+</items>
